@@ -8,7 +8,7 @@ document.getElementById("app").innerHTML = `
     <div class="row">
       <div class="col-sm-4">
         <p>We use the same configuration as Parcel to bundle this sandbox, you can find more
-        info about Parcel 
+        info about Parcel
         <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.</p>
       </div>
 
@@ -19,9 +19,10 @@ document.getElementById("app").innerHTML = `
         <p>Bootstrap seems to be a bunch of CSS. When you make your elements of your webpage
         a class of Bootstrap classes, then Bootstrap styles are applied. Not difficult.</p>
         <p>How can I add colors?</p>
+        <p class="text-success">Again, you specify a class and that element is now colored!</p>
       </div>
 
     </div>
-    
+
   </div>
 `;
